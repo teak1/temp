@@ -1,0 +1,32 @@
+﻿
+boss1Easy:
+  Type: POLAR_BEAR
+  Display: '§6Willy'
+  Health: 1500
+  Damage: 3
+  Armor: 5
+  BossBar:
+    Enabled: true
+  Skin: '§6Willy'
+    Range: 32
+    Color: red
+    DarkenSky: false
+    PlayMusic: true
+    CreateFog: false
+  BossBar:
+    Enabled: true
+  Skin: '§6Willy'
+    Range: 32
+    Color: red
+    DarkenSky: false
+    PlayMusic: true
+    CreateFog: false
+  Options:
+    Despawn: false
+  LevelModifiers:
+    Health: 1500
+  Skin: '3'
+    KnockbackResistance: 1
+    Power: 1
+    Armor: 0.6
+    AttackSpeed: 0.6

@@ -1,0 +1,9 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+    - silkspawners.silkdrop.*
+    - silkspawners.place.*
+schema-version: 1
